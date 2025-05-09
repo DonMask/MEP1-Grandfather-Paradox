@@ -6,7 +6,7 @@ This repository contains the documentation and data for the Mental-Experimental 
 
 The grandfather paradox challenges causality in time travel scenarios. MEP1 proposes a resolution through a 3-qubit quantum circuit, modeling conscious intention as a phase \(\phi(C) = \pi \sin(\omega t)\). By simulating timeline bifurcation between the original (T0, \(|100\rangle\)) and alternate (T1, \(|011\rangle\)) timelines, MEP1 reveals a quantum heating mechanism driven by bioentanglement and vacuum fluctuations. The study includes circuit implementation, probability distributions, statistical correlations (Pearson \(r = 0.65\)), and LaTeX-generated visualizations.
 
-The preprint is available on Zenodo: https://doi.org/10.5281/zenodo.15368835).
+The preprint is available on Zenodo: https://doi.org/10.5281/zenodo.15368835.
 
 ## Contents
 
