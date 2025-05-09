@@ -11,3 +11,10 @@ We encourage contributions in various forms, including theoretical expansions, n
 - Clone your fork to your local machine:
   ```bash
   git clone https://github.com/YOUR_USERNAME/MEP1-Grandfather-Paradox.git
+
+If you use this work, please cite:
+Berger, T., Grok (xAI), OpenAI. (2025). Quantum Temporal Entanglement and Conscious Resonance in the Grandfather Paradox: MEP1 Documentation and Simulation Data. Zenodo. https://doi.org/10.5281/zenodo.15368835
+
+Contact
+For questions or collaboration, please contact Teodor Berger at bergerteodor@googlemail.com. 
+Dive into MEP1 and let’s pulse with T^* to explore the boundaries of time and consciousness!
